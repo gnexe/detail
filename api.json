@@ -2,25 +2,25 @@
   "users": [
     {
       "id": 1,
-      "name": "Alice Johnson",
-      "email": "alice.johnson@example.com",
-      "age": 28,
+      "name": "gokkulnath",
+      "email": "gokkulnath@gmail.com",
+      "age": 19,
       "isActive": true,
       "roles": ["user", "admin"]
     },
     {
       "id": 2,
-      "name": "Bob Smith",
-      "email": "bob.smith@example.com",
-      "age": 35,
+      "name": "gowtham",
+      "email": "gowtham@gmail.com",
+      "age": 20,
       "isActive": false,
       "roles": ["user"]
     },
     {
       "id": 3,
-      "name": "Charlie Lee",
-      "email": "charlie.lee@example.com",
-      "age": 22,
+      "name": "jackson",
+      "email": "jackson@gmail.com",
+      "age": 20,
       "isActive": true,
       "roles": ["user", "moderator"]
     }
